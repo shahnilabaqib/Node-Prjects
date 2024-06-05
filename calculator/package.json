@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "simple calHi,",
+  "main": "d Order**: Once the design is finalized, I will assist in placing the order through Canva, ensuring that all specifications for print quality and dimensions are met.",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "der**: Once the design is finalized, I will assist in placing the order through Canva, ensuring that all specifications for print quality and dimensions are met."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
